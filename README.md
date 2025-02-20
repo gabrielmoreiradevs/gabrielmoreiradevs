@@ -1,32 +1,56 @@
-# Olá, eu sou [Gabriel Moreira] 👋
+# 👨🏻‍💻 Gabriel Moreira
 
-### Estudante de Engenharia de Software - UNAERP
+**`Estudante de Engenharia de Software`**
 
-🔭 Atualmente, estou aprendendo sobre desenvolvimento de software e buscando aprimorar minhas habilidades em programação.
-
-🌱 Estou interessado em explorar novas tecnologias e contribuir para projetos.
-
-## Tecnologias e Ferramentas
-
-- Linguagens: 
-  - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-- Ferramentas:
-  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-  - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-## Projetos em Destaque
-
-<!-- [Nome do Projeto 1](link-do-projeto-1) - Breve descrição do projeto.-->
-- Em Produção
-
-## Conecte-se comigo
-
-- [LinkedIn](https://www.linkedin.com/in/gabrielmoreiradevs/)
-- [Twitter](link-do-seu-twitter)
-- [Portfólio](link-do-seu-portfolio)
+Olá! Meu nome é Gabriel Moreira, tenho 18 anos e sou natural de Ribeirão Preto, São Paulo. Atualmente, estou cursando Engenharia de Software na UNAERP. Sou apaixonado por tecnologia e desenvolvimento de software, e estou sempre em busca de aprender e compartilhar conhecimento.
 
 ---
 
-✨ Estou sempre aberto a colaborações e novas oportunidades. Vamos nos conectar!
+### 🌱 Atualmente Aprendendo
+
+- **Linguagens:** C
+- **Lógica de Programação**
+
+---
+
+### 🌐 Conecte-se Comigo
+
+- [LinkedIn](https://www.linkedin.com/in/gabrielmoreiradevs/)
+
+---
+
+### 💻 Interesses
+
+Estou interessado em:
+
+- Desenvolvimento Web
+- Segurança da Informação
+- Inteligência Artificial
+- Engenharia de Software
+
+Meu objetivo é integrar equipes de desenvolvimento para novos projetos ou manutenção de softwares.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=gabrielmoreiradevs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreiradevs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
+---
+
+✨ Estou sempre aberto a colaborações e novas oportunidades. Vamos nos conectar e criar algo incrível juntos!
