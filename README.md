@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Software`**
 
-Me chamo Gabriel Moreira, tenho 18 anos e sou natural de Ribeirão Preto, São Paulo. Atualmente, estou cursando Engenharia de Software na UNAERP. Sou apaixonado por tecnologia e estou sempre em busca de aprender mais sobre desenvolvimento de software e suas diversas áreas.
+Me chamo Gabriel Moreira Fermino, tenho 18 anos e sou natural de Ribeirão Preto. Concluí o ensino médio no IAVEC. Atualmente, estou cursando Engenharia de Software na UNAERP.Desde jovem, desenvolvi um interesse profundo por tecnologia, especialmente através da criação de mods para jogos. Atualmente, meu foco está direcionado para o desenvolvimento web, segurança da informação, inteligência artificial e engenharia de software, com o objetivo de integrar equipes de desenvolvimento em empresas consolidadas
 
 <p align="left">
     <a href="https://github.com/gabrielmoreiradevs?tab=repositories&sort=stargazers">
@@ -33,38 +33,6 @@ Me chamo Gabriel Moreira, tenho 18 anos e sou natural de Ribeirão Preto, São P
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML" 
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
 
 <br/>
 <br/>
@@ -87,7 +55,3 @@ Me chamo Gabriel Moreira, tenho 18 anos e sou natural de Ribeirão Preto, São P
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreiradevs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
----
-
-✨ Estou sempre aberto a colaborações e novas oportunidades. Vamos nos conectar e criar algo incrível juntos!
