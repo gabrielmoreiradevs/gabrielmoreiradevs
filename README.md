@@ -2,7 +2,9 @@
 
 **`Estudante de Engenharia de Software`**
 
-Me chamo Gabriel Moreira Fermino, tenho 18 anos e sou natural de Ribeirão Preto. Concluí o ensino médio no IAVEC. Atualmente, estou cursando Engenharia de Software na UNAERP.Desde jovem, desenvolvi um interesse profundo por tecnologia, especialmente através da criação de mods para jogos. Atualmente, meu foco está direcionado para o desenvolvimento web, segurança da informação, inteligência artificial e engenharia de software, com o objetivo de integrar equipes de desenvolvimento em empresas consolidadas
+Me chamo Gabriel Moreira Fermino, tenho 18 anos e sou natural de Ribeirão Preto. Concluí o ensino médio no IAVEC. Atualmente, estou cursando Engenharia de Software na UNAERP. Desde jovem, desenvolvi um interesse profundo por tecnologia, especialmente através da criação de mods para jogos. Atualmente, meu foco está direcionado para o desenvolvimento web, segurança da informação, inteligência artificial e engenharia de software, com o objetivo de integrar equipes de desenvolvimento em empresas consolidadas
+
+
 
 <p align="left">
     <a href="https://www.linkedin.com/in/gabrielmoreiradevs/" target="_blank">
