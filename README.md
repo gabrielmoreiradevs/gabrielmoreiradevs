@@ -5,11 +5,11 @@
 Me chamo Gabriel Moreira Fermino, tenho 18 anos e sou natural de Ribeirão Preto. Concluí o ensino médio no IAVEC. Atualmente, estou cursando Engenharia de Software na UNAERP.Desde jovem, desenvolvi um interesse profundo por tecnologia, especialmente através da criação de mods para jogos. Atualmente, meu foco está direcionado para o desenvolvimento web, segurança da informação, inteligência artificial e engenharia de software, com o objetivo de integrar equipes de desenvolvimento em empresas consolidadas
 
 <p align="left">
-    <a href="[https://github.com/gabrielmoreiradevs?tab=repositories&sort=stargazers](https://www.linkedin.com/in/gabrielmoreiradevs/)">
+    <a href="https://www.linkedin.com/in/gabrielmoreiradevs/" target="_blank">
         <img 
             alt="LinkedIn" 
-            title="Vamos se Conectar?" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
         />
     </a>
     <a href="https://github.com/gabrielmoreiradevs?tab=repositories&sort=stargazers">
