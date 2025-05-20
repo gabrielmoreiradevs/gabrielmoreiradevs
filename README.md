@@ -49,8 +49,9 @@ Me chamo Gabriel Moreira Fermino, tenho 18 anos e sou natural de Ribeirão Preto
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" 
 />
+
 
 
 <br/>
