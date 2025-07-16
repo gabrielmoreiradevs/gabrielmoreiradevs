@@ -4,7 +4,6 @@
 Desenvolvedor em formação, <strong>com interesse especial em back-end</strong> e apaixonado por resolver problemas com código. <strong>Tenho estudado Java e programo em C</strong>, sempre buscando fortalecer minha base técnica e aplicar os aprendizados em projetos práticos. Atualmente, estou documentando toda a minha jornada de estudos em Java aqui no GitHub, como parte do meu curso de Engenharia de Software na UNAERP. Meu objetivo é atuar como desenvolvedor back-end, contribuindo com soluções que realmente ajudem pessoas e empresas.
 </p>
 
----
 
 ## 🧠 Sobre mim
 
@@ -22,7 +21,6 @@ Desenvolvedor em formação, <strong>com interesse especial em back-end</strong>
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea)](https://skillicons.dev)
 
----
 
 ## 📊 GitHub Stats
 
@@ -30,6 +28,8 @@ Desenvolvedor em formação, <strong>com interesse especial em back-end</strong>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmoreiradevs&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&hide_border=true&border_radius=8" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreiradevs&layout=compact&langs_count=6&theme=blueberry&hide_border=true&border_radius=8"/>
 </a>
+
+---
 
 ## 📬 Contato
 
@@ -44,21 +44,17 @@ Vamos nos conectar! Estou disponível nas seguintes plataformas:
   <li>💻 GitHub: <a href="https://github.com/gabrielmoreiradevs">github.com/gabrielmoreiradevs</a></li>
 </ul>
 
-<p align="left">
-Também estou aberto a colaborações, dúvidas e troca de conhecimento. Sinta-se à vontade para entrar em contato!
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+<strong>Sobre mim</strong><br><br>
+  Sou estudante de Engenharia de Software na UNAERP, com foco em desenvolvimento back-end.  
+  Tenho me aprofundado em <strong>Java</strong> e <strong>C</strong>, além de explorar tecnologias como <strong>Spring Boot</strong>, <strong>React</strong> e <strong>Docker</strong>.  
+  Aplico esses conhecimentos em projetos práticos e na documentação da minha jornada de estudos.<br><br>
+  Acredito que aprender construindo é o melhor caminho, por isso transformo teoria em prática sempre que possível 💻🚀
 </p>
 
-<p align="left">
-  <a href="mailto:gabrielmoreirafermino@hotmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-054f77?style=flat-square&labelColor=054f77&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gabrielmoreiradevs/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-054f77?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/_gabrielzzn" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-054f77?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+---
 
 ## 📈 Contribuições
 
