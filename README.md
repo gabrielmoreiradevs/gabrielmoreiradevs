@@ -13,9 +13,9 @@ Desenvolvedor em formação, <strong>com interesse especial em back-end</strong>
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielmoreiradevs/gabrielmoreiradevs/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielmoreiradevs/gabrielmoreiradevs/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gabrielmoreiradevs/gabrielmoreiradevs/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
@@ -24,15 +24,9 @@ Desenvolvedor em formação, <strong>com interesse especial em back-end</strong>
 
 
 ## ⭐ GitHub Stats
-<a href="https://github.com/eduardavieira-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardavieira-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardavieira-dev&layout=compact&langs_count=6&theme=radical"/>
-
-## 📚 Meus estudos
-Organizo meus aprendizados e anotações em uma organização separada no GitHub chamada [eduardavieira-study](https://github.com/eduardavieira-study).  
-Lá você encontra repositórios com resumos, desafios resolvidos, anotações de cursos e projetos de estudo contínuo.
-
-> Manter esse espaço me ajuda a acompanhar minha evolução e, quem sabe, também ajudar outros devs iniciantes 💜
+<a href="https://github.com/gabrielmoreiradevs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmoreiradevs&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreiradevs&layout=compact&langs_count=6&theme=radical"/>
 
 
 
@@ -78,7 +72,7 @@ Lá você encontra repositórios com resumos, desafios resolvidos, anotações d
 
 <div align="center">
   
-  [![Eduarda Vieira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielmoreiradevs&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Eduarda Vieira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielmoreiradevs&bg_color=0d1117&color=054f77&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <img src="https://streak-stats.demolab.com?user=eduardavieira-dev&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
   <img src="https://github-profile-trophy.vercel.app?username=gabrielmoreiradevs&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
