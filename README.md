@@ -33,15 +33,6 @@ Desenvolvedor em formação, <strong>com interesse especial em back-end</strong>
 
 ---
 
-## 🌱 Aprendizado Contínuo
-
-Organizo meus aprendizados e anotações em uma organização separada no GitHub chamada [**gabrielmoreiradevs-study**](https://github.com/gabrielmoreiradevs-study).  
-Nela, compartilho resumos, exercícios resolvidos, anotações de cursos e projetos desenvolvidos durante meus estudos em Engenharia de Software.
-
-> Manter esse espaço me ajuda a acompanhar minha evolução e, quem sabe, também inspirar ou apoiar outros devs iniciantes na jornada 💻🚀
-
----
-
 ## 📈 Contribuições
 
 <div align="center">
@@ -59,7 +50,19 @@ Nela, compartilho resumos, exercícios resolvidos, anotações de cursos e proje
 ## 📬 Contato
 
 <p align="left">
-  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram!
+Vamos nos conectar! Estou disponível nas seguintes plataformas:
+</p>
+
+<ul>
+  <li>📧 E-mail: <a href="mailto:gabrielmoreirafermino@hotmail.com">gabrielmoreirafermino@hotmail.com</a></li>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/gabrielmoreiradevs/">linkedin.com/in/gabrielmoreiradevs</a></li>
+  <li>📸 Instagram: <a href="https://www.instagram.com/_gabrielzzn">@_gabrielzzn</a></li>
+  <li>🐦 Twitter: <a href="https://twitter.com/seuusuario">twitter.com/seuusuario</a> (adicione se tiver)</li>
+  <li>💻 GitHub: <a href="https://github.com/gabrielmoreiradevs">github.com/gabrielmoreiradevs</a></li>
+</ul>
+
+<p align="left">
+Também estou aberto a colaborações, dúvidas e troca de conhecimento. Sinta-se à vontade para entrar em contato!
 </p>
 
 <p align="left">
@@ -77,4 +80,3 @@ Nela, compartilho resumos, exercícios resolvidos, anotações de cursos e proje
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:054f77,100:0d1117"/>
-
