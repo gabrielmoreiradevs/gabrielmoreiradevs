@@ -44,16 +44,6 @@ Vamos nos conectar! Estou disponível nas seguintes plataformas:
   <li>💻 GitHub: <a href="https://github.com/gabrielmoreiradevs">github.com/gabrielmoreiradevs</a></li>
 </ul>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-<p align="left"> 
-<strong>Sobre mim</strong><br><br>
-  Sou estudante de Engenharia de Software na UNAERP, com foco em desenvolvimento back-end.  
-  Tenho me aprofundado em <strong>Java</strong> e <strong>C</strong>, além de explorar tecnologias como <strong>Spring Boot</strong>, <strong>React</strong> e <strong>Docker</strong>.  
-  Aplico esses conhecimentos em projetos práticos e na documentação da minha jornada de estudos.<br><br>
-  Acredito que aprender construindo é o melhor caminho, por isso transformo teoria em prática sempre que possível 💻🚀
-</p>
-
 ---
 
 ## 📈 Contribuições
