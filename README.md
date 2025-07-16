@@ -25,8 +25,8 @@ Desenvolvedor em formação, <strong>com interesse especial em back-end</strong>
 
 ## ⭐ GitHub Stats
 <a href="https://github.com/gabrielmoreiradevs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmoreiradevs&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreiradevs&layout=compact&langs_count=6&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmoreiradevs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreiradevs&layout=compact&langs_count=6&theme=dark"/>
 
 
 
