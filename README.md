@@ -16,7 +16,7 @@ Desenvolvedor em formação, <strong>com interesse especial em back-end</strong>
 
 ## 💼 Tecnologias e Linguagens
 
-[![My Skills](https://skillicons.dev/icons?i=html,c,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de Desenvolvimento
 
