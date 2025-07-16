@@ -39,7 +39,7 @@ Desenvolvedor em formação, <strong>com interesse especial em back-end</strong>
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,vite,spring,mysql,postgres)](https://skillicons.dev-->
 
 ### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,ideia,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idei)](https://skillicons.dev)
 
 
 
