@@ -16,11 +16,11 @@ Desenvolvedor em formação, <strong>com interesse especial em back-end</strong>
 
 ## 💼 Tecnologias e Linguagens
 
-[![My Skills](https://skillicons.dev/icons?i=html,c,java,spring,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,c,java)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de Desenvolvimento
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea)](https://skillicons.dev)
 
 ---
 
@@ -30,22 +30,6 @@ Desenvolvedor em formação, <strong>com interesse especial em back-end</strong>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmoreiradevs&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&hide_border=true&border_radius=8" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreiradevs&layout=compact&langs_count=6&theme=blueberry&hide_border=true&border_radius=8"/>
 </a>
-
----
-
-## 📈 Contribuições
-
-<div align="center">
-
-[![Atividade recente de Gabriel Moreira](https://github-readme-activity-graph.vercel.app/graph?username=gabrielmoreiradevs&bg_color=0d1117&color=054f77&line=054f77&point=054f77&area=true&area_color=054f77&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img src="https://streak-stats.demolab.com?user=gabrielmoreiradevs&locale=pt-br&mode=weekly&theme=blueberry&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="Gráfico de streaks" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=gabrielmoreiradevs&theme=blueberry&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="Troféus do GitHub" />
-
-</div>
-
----
 
 ## 📬 Contato
 
@@ -57,7 +41,6 @@ Vamos nos conectar! Estou disponível nas seguintes plataformas:
   <li>📧 E-mail: <a href="mailto:gabrielmoreirafermino@hotmail.com">gabrielmoreirafermino@hotmail.com</a></li>
   <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/gabrielmoreiradevs/">linkedin.com/in/gabrielmoreiradevs</a></li>
   <li>📸 Instagram: <a href="https://www.instagram.com/_gabrielzzn">@_gabrielzzn</a></li>
-  <li>🐦 Twitter: <a href="https://twitter.com/seuusuario">twitter.com/seuusuario</a> (adicione se tiver)</li>
   <li>💻 GitHub: <a href="https://github.com/gabrielmoreiradevs">github.com/gabrielmoreiradevs</a></li>
 </ul>
 
@@ -77,6 +60,16 @@ Também estou aberto a colaborações, dúvidas e troca de conhecimento. Sinta-s
   </a>
 </p>
 
----
+## 📈 Contribuições
+
+<div align="center">
+
+[![Atividade recente de Gabriel Moreira](https://github-readme-activity-graph.vercel.app/graph?username=gabrielmoreiradevs&bg_color=0d1117&color=054f77&line=054f77&point=054f77&area=true&area_color=054f77&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://streak-stats.demolab.com?user=gabrielmoreiradevs&locale=pt-br&mode=weekly&theme=blueberry&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="Gráfico de streaks" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=gabrielmoreiradevs&theme=blueberry&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="Troféus do GitHub" />
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:054f77,100:0d1117"/>
