@@ -72,10 +72,12 @@ Desenvolvedor em formação, <strong>com interesse especial em back-end</strong>
 
 <div align="center">
   
-  [![Gabriel Moreira github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielmoreiradevs&bg_color=0d1117&color=054f77&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Atividade recente de Gabriel Moreira](https://github-readme-activity-graph.vercel.app/graph?username=gabrielmoreiradevs&bg_color=0d1117&color=054f77&line=054f77&point=054f77&area=true&area_color=054f77&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <img src="https://streak-stats.demolab.com?user=gabrielmoreiradevs&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
-  <img src="https://github-profile-trophy.vercel.app?username=gabrielmoreiradevs&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
+<img src="https://streak-stats.demolab.com?user=gabrielmoreiradevs&locale=pt-br&mode=weekly&theme=react&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="Gráfico de streaks" />
+
+<img src="https://github-profile-trophy.vercel.app?username=gabrielmoreiradevs&theme=algolia&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="Troféus do GitHub" />
+
 </div>
 
 
