@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Olá, eu sou o Gabriel!
 <p align="left">
-Desenvolvedor em formação, <strong>com interesse especial em back-end</strong> e apaixonado por resolver problemas com código. <strong>Tenho estudado Java e programo em C</strong>strong>, sempre buscando fortalecer minha base técnica e aplicar os aprendizados em projetos práticos. Atualmente, estou documentando toda a minha jornada de estudos em Java aqui no GitHub, como parte do meu curso de Engenharia de Software na UNAERP. Meu objetivo é atuar como desenvolvedor back-end, contribuindo com soluções que realmente ajudem pessoas e empresas.
+Desenvolvedor em formação, <strong>com interesse especial em back-end</strong> e apaixonado por resolver problemas com código. <strong>Tenho estudado Java e programo em C</strong>, sempre buscando fortalecer minha base técnica e aplicar os aprendizados em projetos práticos. Atualmente, estou documentando toda a minha jornada de estudos em Java aqui no GitHub, como parte do meu curso de Engenharia de Software na UNAERP. Meu objetivo é atuar como desenvolvedor back-end, contribuindo com soluções que realmente ajudem pessoas e empresas.
 </p>
 
 ## Sobre mim
