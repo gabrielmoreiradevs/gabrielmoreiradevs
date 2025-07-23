@@ -1,52 +1,33 @@
-# 👨🏻‍💻 Olá, eu sou o Gabriel!
+👨🏻‍💻 Olá, eu sou o Gabriel!
+=======================================================================================================================================
 
-<p align="left">
-Desenvolvedor em formação, <strong>com interesse especial em back-end</strong> e apaixonado por resolver problemas com código. <strong>Tenho estudado Java e programo em C</strong>, sempre buscando fortalecer minha base técnica e aplicar os aprendizados em projetos práticos. Atualmente, estou documentando toda a minha jornada de estudos em Java aqui no GitHub, como parte do meu curso de Engenharia de Software na UNAERP. Meu objetivo é atuar como desenvolvedor back-end, contribuindo com soluções que realmente ajudem pessoas e empresas.
-</p>
+Desenvolvedor em formação, com interesse especial em back-end e apaixonado por resolver problemas com código. Tenho estudado Java e programo em C, sempre buscando fortalecer minha base técnica e aplicar os aprendizados em projetos práticos. Atualmente, estou documentando toda a minha jornada de estudos em Java aqui no GitHub, como parte do meu curso de Engenharia de Software na UNAERP. Meu objetivo é atuar como desenvolvedor back-end, contribuindo com soluções que realmente ajudem pessoas e empresas.
 
+###
 
-## 🧠 Sobre mim
+<h2 align="left">🔎 Sobre mim</h2>
 
-- 🎓 Graduando em Engenharia de Software na UNAERP  
-- 📚 Estudando Java, Spring Boot, React e desenvolvimento backend  
-- 🌍 Explorando novas tecnologias e desenvolvendo soluções de software  
-
----
-
-## 💼 Tecnologias e Linguagens
-
-[![My Skills](https://skillicons.dev/icons?i=c,java)](https://skillicons.dev)
-
-### 🛠️ Ferramentas de Desenvolvimento
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea)](https://skillicons.dev)
+###
+* 💻 Graduando em Engenharia de Software na UNAERP
+* 📚 Estudando Java, Spring Boot, React e desenvolvimento backend
+* 🌍 Explorando novas tecnologias e desenvolvendo soluções de software
 
 
-## 📊 GitHub Stats
+###
 
-<a href="https://github.com/gabrielmoreiradevs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmoreiradevs&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&hide_border=true&border_radius=8" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreiradevs&layout=compact&langs_count=6&theme=blueberry&hide_border=true&border_radius=8"/>
-</a>
+<h2 align="left"> 🛠 Tecnologias e Ferramentas</h2>
 
----
+<div align="left">
+	[![My Skills](https://skillicons.dev/icons?i=c,java)](https://skillicons.dev)
+	[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea)](https://skillicons.dev)
+</div>
 
-## 📬 Contato
+<h2 align="left">📊 Estatísticas</h2>
 
-<p align="left">
-Vamos nos conectar! Estou disponível nas seguintes plataformas:
-</p>
-
-<ul>
-  <li>📧 E-mail: <a href="mailto:gabrielmoreirafermino@hotmail.com">gabrielmoreirafermino@hotmail.com</a></li>
-  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/gabrielmoreiradevs/">linkedin.com/in/gabrielmoreiradevs</a></li>
-  <li>📸 Instagram: <a href="https://www.instagram.com/_gabrielzzn">@_gabrielzzn</a></li>
-  <li>💻 GitHub: <a href="https://github.com/gabrielmoreiradevs">github.com/gabrielmoreiradevs</a></li>
-</ul>
-
----
-
-## 📈 Contribuições
+###
+<div align="center">
+<a href="http://www.github.com/gabrielmoreiradevs"><img src="https://github-readme-stats.vercel.app/api?username=gabrielmoreiradevs&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gabrielmoreiradevs GitHub stats" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmoreiradevs&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=darkblue&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&order=2" height="300" alt="languages graph"/> </div>
 
 <div align="center">
 
@@ -58,4 +39,27 @@ Vamos nos conectar! Estou disponível nas seguintes plataformas:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:054f77,100:0d1117"/>
+
+<h2 align="center">Contato</h2>
+<h6 align="center">Estou aberto para compartilhar conhecimentos. Fique à vontade para entrar em contato!</h6>
+
+###
+<div align="center">
+  <a href="https://github.com/gabrielmoreiradevs" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/in/gabrielmoreiradevs/" target="_blank" rel="noreferrer" style="margin-left: 10px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    </picture>
+  </a>
+  <a href="mailto:gabrielmoreirafermino@hotmail.com" target="_blank" rel="noreferrer" style="margin-left: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="32" height="32" />
+  </a>
+</div>
