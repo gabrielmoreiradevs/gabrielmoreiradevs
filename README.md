@@ -19,7 +19,7 @@ Desenvolvedor em formação, com interesse especial em back-end e apaixonado por
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,spring,react,nodejs,docker,git,github,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=c,java,spring,git,github,vscode,idea" />
   </a>
 </p>
 
