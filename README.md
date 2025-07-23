@@ -17,10 +17,11 @@ Desenvolvedor em formação, com interesse especial em back-end e apaixonado por
 
 <h2 align="left"> 🛠 Tecnologias e Ferramentas</h2>
 
-<div align="left">
-	[![My Skills](https://skillicons.dev/icons?i=c,java)](https://skillicons.dev)
-	[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea)](https://skillicons.dev)
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,spring,react,nodejs,docker,git,github,vscode,idea" />
+  </a>
+</p>
 
 <h2 align="left">📊 Estatísticas</h2>
 
@@ -63,3 +64,5 @@ Desenvolvedor em formação, com interesse especial em back-end e apaixonado por
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="32" height="32" />
   </a>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:054f77,100:0d1117"/>
