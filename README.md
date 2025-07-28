@@ -53,7 +53,7 @@ Desenvolvedor em formação, <strong>com interesse especial em back-end e apaixo
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </picture>
   </a>
-  <a href="https://www.linkedin.com/in/gabrielmoreiradevs/" target="_blank" rel="noreferrer" style="margin-left: 10px;">
+  <a href="https://www.linkedin.com/in/gabriel-moreiraf/" target="_blank" rel="noreferrer" style="margin-left: 10px;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
