@@ -1,7 +1,7 @@
 👨🏻‍💻 Olá, eu sou o Gabriel!
 =======================================================================================================================================
 
-Desenvolvedor em formação, <strong>com interesse especial em back-end e apaixonado por resolver problemas com código.</strong> Tenho estudado Java e programo em C, sempre buscando fortalecer minha base técnica e aplicar os aprendizados em projetos práticos. Atualmente, estou documentando toda a minha jornada de estudos em Java aqui no GitHub, como parte do meu curso de Engenharia de Software na UNAERP. Meu objetivo é atuar como desenvolvedor back-end, contribuindo com soluções que realmente ajudem pessoas e empresas.
+Sou um desenvolvedor em formação e estudante de Engenharia de Software na UNAERP, com um interesse especial em desenvolvimento back-end e apaixonado por resolver problemas com código. Com experiência em projetos que utilizam Java, Spring Boot, SQL, e Docker, meu foco é transformar teoria em prática, desenvolvendo soluções reais e escaláveis. Em projetos como a criação de uma API RESTful integrada à OpenAI para automação de resumos, demonstro meu conhecimento no ciclo completo de desenvolvimento, desde a modelagem até a entrega. Busco continuamente fortalecer minha base técnica e aplicar meus aprendizados, com o objetivo de atuar em equipes de desenvolvimento e contribuir com soluções inovadoras que impactem positivamente pessoas e empresas.
 
 ###
 
