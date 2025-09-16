@@ -19,7 +19,7 @@ Desenvolvedor em formação, <strong>com interesse especial em back-end e apaixo
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,spring,git,github,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgresql,flyway,docker,git,github,swagger,html,css,js,bootstrap,thymeleaf,c,arduino,vscode,idea" />
   </a>
 </p>
 
