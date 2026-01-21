@@ -19,7 +19,7 @@ Sou um desenvolvedor em formação e estudante de Engenharia de Software na UNAE
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,docker,git,github,html,css,js,ts,nestjs,nodejs,bootstrap,c,cpp,cs,cpp,lua,arduino,vscode,idea,webstorm,postman" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,docker,git,github,html,css,js,ts,nestjs,nodejs,bootstrap,c,cpp,cs,lua,arduino,vscode,idea,webstorm,postman" />
   </a>
 </p>
 
