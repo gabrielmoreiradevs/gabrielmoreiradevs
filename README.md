@@ -26,15 +26,10 @@ Sou um desenvolvedor em formação e estudante de Engenharia de Software na UNAE
 <h2 align="left">📊 Estatísticas</h2>
 
 ###
-<div align="center">
-<a href="http://www.github.com/gabrielmoreiradevs"><img src="https://github-readme-stats.vercel.app/api?username=gabrielmoreiradevs&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gabrielmoreiradevs GitHub stats" /></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmoreiradevs&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="300" alt="languages graph"/> </div>
 
 <div align="center">
 
 [![Atividade recente de Gabriel Moreira](https://github-readme-activity-graph.vercel.app/graph?username=gabrielmoreiradevs&bg_color=0d1117&color=054f77&line=054f77&point=054f77&area=true&area_color=054f77&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img src="https://github-profile-trophy.vercel.app/?username=gabrielmoreiradevs&theme=blueberry&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="Troféus do GitHub" />
 
 </div>
 
