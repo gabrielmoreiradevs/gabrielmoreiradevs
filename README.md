@@ -1,54 +1,80 @@
-👨🏻‍💻 Olá, eu sou o Gabriel!
-=======================================================================================================================================
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:054f77,100:0d1117&height=200&section=header&text=Gabriel%20Moreira&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-Sou um desenvolvedor em formação e estudante de Engenharia de Software na UNAERP, com um interesse especial em desenvolvimento back-end e apaixonado por resolver problemas com código. Com experiência em projetos que utilizam Java, Spring Boot, SQL, e Docker, meu foco é transformar teoria em prática, desenvolvendo soluções reais e escaláveis. Em projetos como a criação de uma API RESTful integrada à OpenAI para automação de resumos, demonstro meu conhecimento no ciclo completo de desenvolvimento, desde a modelagem até a entrega. Busco continuamente fortalecer minha base técnica e aplicar meus aprendizados, com o objetivo de atuar em equipes de desenvolvimento e contribuir com soluções inovadoras que impactem positivamente pessoas e empresas.
+<h1 align="center">👨🏻‍💻 Olá, eu sou o Gabriel!</h1>
 
-###
-
-<h2 align="left">🔎 Sobre mim</h2>
-
-###
-* 💻 Graduando em Engenharia de Software na UNAERP
-* 📚 Estudando Java, Spring Boot, React e desenvolvimento backend
-* 🌍 Explorando novas tecnologias e desenvolvendo soluções de software
-
-
-###
-
-<h2 align="left"> 🛠 Tecnologias e Ferramentas</h2>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,docker,git,github,html,css,js,ts,nestjs,nodejs,bootstrap,c,cpp,cs,lua,arduino,vscode,idea,webstorm,postman" />
-  </a>
+<p align="center">
+Desenvolvedor Backend em formação • Engenharia de Software • Java & Spring Boot
 </p>
 
-<h2 align="left">📊 Estatísticas</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vinimlo/galaxy-profile/main/galaxy.svg" />
+</p>
 
-###
+---
+
+## 🔎 Sobre mim
+
+Sou estudante de **Engenharia de Software na UNAERP**, com foco em desenvolvimento **backend** e arquitetura de APIs escaláveis.
+
+Tenho experiência prática com:
+
+- 🔹 Java + Spring Boot
+- 🔹 Desenvolvimento de APIs RESTful
+- 🔹 Integração com OpenAI
+- 🔹 Modelagem e consultas SQL
+- 🔹 Docker para ambientes containerizados
+
+Meu objetivo é atuar em equipes de desenvolvimento, contribuindo com soluções reais, escaláveis e bem estruturadas.
+
+---
+
+## 🛠 Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,docker,git,github,html,css,js,ts,nestjs,nodejs,bootstrap,c,cpp,cs,lua,arduino,vscode,idea,webstorm,postman" />
+</p>
+
+---
+
+## 📌 Principais Interesses
+
+- 🏗 Arquitetura de Software
+- ⚙️ Backend com Java
+- 🧠 APIs Inteligentes (OpenAI)
+- 🐳 Containers com Docker
+- 📊 Banco de Dados Relacional
+
+---
+
+## 📊 Estatísticas
 
 <div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielmoreiradevs&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreiradevs&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117"/>
 
 [![Atividade recente de Gabriel Moreira](https://github-readme-activity-graph.vercel.app/graph?username=gabrielmoreiradevs&bg_color=0d1117&color=054f77&line=054f77&point=054f77&area=true&area_color=054f77&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
+---
 
-<h2 align="center">Contato</h2>
-<h6 align="center">Estou aberto para compartilhar conhecimentos. Fique à vontade para entrar em contato!</h6>
+## 🤝 Contato
 
-###
+<p align="center">
+Estou aberto para oportunidades, networking e colaboração em projetos.
+</p>
+
 <div align="center">
-  <a href="https://github.com/gabrielmoreiradevs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" />
+  <a href="https://github.com/gabrielmoreiradevs" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
   </a>
-  
-  <a href="https://www.linkedin.com/in/gabriel-moreiraf/" target="_blank" rel="noreferrer" style="margin-left: 10px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg?v=1" width="32" height="32" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/gabriel-moreiraf/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" width="32" height="32" />
   </a>
-  
-  <a href="mailto:gabrielmoreirafermino@hotmail.com" target="_blank" rel="noreferrer" style="margin-left: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="32" height="32" />
+  <a href="mailto:gabrielmoreirafermino@hotmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32" height="32" />
   </a>
 </div>
 
