@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:054f77,100:0d1117&height=200&section=header&text=Gabriel%20Moreira&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:054f77&height=250&section=header&text=Gabriel%20Moreira&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20•%20Java%20&descAlignY=65"/>
+
 
 <h1 align="center">👨🏻‍💻 Olá, eu sou o Gabriel!</h1>
 
@@ -7,8 +9,12 @@ Desenvolvedor Backend em formação • Engenharia de Software • Java & Spring
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vinimlo/galaxy-profile/main/galaxy.svg" />
+  <img src="https://img.shields.io/badge/Java-Spring_Boot-054f77?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-Backend-0d1117?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-DevOps-054f77?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
+
+
 
 ---
 
